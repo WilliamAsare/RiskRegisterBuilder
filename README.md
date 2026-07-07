@@ -6,6 +6,9 @@ A professional Governance, Risk & Compliance (GRC) web application for IT audito
 
 **[risk-register-builder-black.vercel.app](https://risk-register-builder-black.vercel.app)**
 
+![Dashboard](./screenshots/dashboard.png)
+![Heat Map](./screenshots/heatmap.png)
+
 ---
 
 ## Try it — Demo Accounts
